@@ -20,8 +20,8 @@
 16. ether channel 설명 및 실습
 17. etheer channel 형상 프로토콜 LACP / PAGD
 18. STP Toolkit 설명
-19. STP Tookit 설명 및 실습(BPUD Guard / Filter)
-20. STP Tookit 설명 및 실습(LoopGuard / RootGuard)
+19. STP Tookit 설명 및 실습 (BPUD Guard / Filter)
+20. STP Tookit 설명 및 실습 (LoopGuard / RootGuard)
 21. L3 동작 원리 및 설명
 22. L3 Routing 실습
 23. STATIC Route 이론 및 실습
